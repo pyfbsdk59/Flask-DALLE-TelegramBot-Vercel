@@ -2,16 +2,18 @@
 # 一個使用Flask框架和圖像生成AI DALLE，創造一個TelegramBot，快速建置於平台Vercel。
 
 <div align="center">
-  <img src="demo/demo1.png" width="400"/>
+  <img src="demo/demo1t.png" width="300"/>
 </div>
 
 <div align="center">
-  <img src="demo/demo2.png" width="400"/>
+  <img src="demo/demo2t.png" width="300"/>
 </div>
 
 <div align="center">
-  <img src="demo/demo3.png" width="400"/>
+  <img src="demo/demo3t.png" width="300"/>
 </div>
+
+
 
 ## [TelegramBot Vercel GPT3版本部屬](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel)
 
