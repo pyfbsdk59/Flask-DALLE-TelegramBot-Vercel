@@ -1,9 +1,9 @@
-# Flask-ChatGPT-TelegramBot-Vercel
-# プラットフォーム Vercel 上に迅速に構築された Flask ChatGPT TelegramBot。
+# Flask-DALLE-TelegramBot-Vercel
+# プラットフォーム Vercel 上に迅速に構築された Flask DALLE TelegramBot。
 
 
-### [繁體中文](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel/blob/main/README.md)
-### [English](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel/blob/main/README_en.md)
+### [繁體中文](https://github.com/pyfbsdk59/Flask-DALLE-TelegramBot-Vercel/blob/main/README.md)
+### [English](https://github.com/pyfbsdk59/Flask-DALLE-TelegramBot-Vercel/blob/main/README_en.md)
 
 
 #### 1. このプロジェクトは、以下のプロジェクトを参照しており、Flask を学習したばかりの人が Vercel に TelegramBot をデプロイするためのものです。

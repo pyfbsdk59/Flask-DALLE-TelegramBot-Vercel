@@ -1,12 +1,12 @@
-# Flask-ChatGPT-TelegramBot-Vercel
-# A Flask ChatGPT TelegramBot quickly built on the platform Vercel.
+# Flask-DALLE-TelegramBot-Vercel
+# A Flask DALLE TelegramBot quickly built on the platform Vercel.
 
 
-### [繁體中文](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel/blob/main/README.md)
-### [日本語](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel/blob/main/README_jp.md)
+### [繁體中文](https://github.com/pyfbsdk59/Flask-DALLE-TelegramBot-Vercel/blob/main/README.md)
+### [日本語](https://github.com/pyfbsdk59/Flask-DALLE-TelegramBot-Vercel/blob/main/README_jp.md)
 
 
-#### 0. Migrating to GPT3.5 model...
+
 
 
 
